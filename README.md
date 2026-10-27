@@ -1,6 +1,6 @@
 # Flujograma
 
-Aplicación web: **https://herramientas-calidad.github.io/flujograma/** (versión 2026.12).
+Aplicación web: **https://herramientas-calidad.github.io/flujograma/** (versión 2026.13).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para **dibujar cualquier proceso sanitario como un diagrama de flujo sin saber dibujar**: se escriben los pasos, quién los hace y qué viene después, y la app dibuja el flujograma con los símbolos normalizados, por calles de actores y por subprocesos.
 

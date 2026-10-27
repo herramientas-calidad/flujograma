@@ -15,7 +15,7 @@
   // ---------- Versión y novedades ----------
   // Al publicar cambios: añadir una entrada AL PRINCIPIO de NOVEDADES, poner su versión en los ?v= de index.html, en
   // APP_VERSION y subir CACHE_NAME en sw.js. Formato de versión: AAAA.NN.
-  const APP_VERSION = "2026.12";
+  const APP_VERSION = "2026.13";
   const NOVEDADES = [
     { version: "2026.06", fecha: "Octubre 2026", titulo: "Avisos coloreados por IPR", cambios: [
       "Si has traído el AMFE (paso 1), el aviso de cada punto crítico toma el color del IPR más alto de sus fallos: rojo muy alto, naranja alto, amarillo medio y verde bajo, como en el AMFE. Sale en el dibujo, en la imagen, en el PDF, en Word y en draw.io."] },
